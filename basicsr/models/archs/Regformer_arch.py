@@ -309,9 +309,9 @@ class Regformer(nn.Module):
         inp_channels=3, 
         out_channels=3, 
         dim = 48,
-        num_blocks = [4,6,6,8], 
+        num_blocks = [2,2,2,2], 
         num_refinement_blocks = 4,
-        heads = [6,6,6,8],
+        heads = [4,4,4,4],
         ffn_expansion_factor = 2.66,
         bias = False,
         LayerNorm_type = 'WithBias',   ## Other option 'BiasFree'

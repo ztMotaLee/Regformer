@@ -1,6 +1,6 @@
 # Dive deep into regions: Exploiting regional information transformer for single image deraining
 
-[Baiang Li](https://ztmotalee.github.io), [Zhao Zhang](), Huan Zheng, Xiaogang Xu, Yanyan Wei, Jicong Fan Zhongqiu Zhao, and Richang Hong.
+[Baiang Li](https://ztmotalee.github.io), [Zhao Zhang](), [Huan Zheng](), [Xiaogang Xu](), Yanyan Wei, Jicong Fan Zhongqiu Zhao, and Richang Hong.
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.11950)
 [![paper](https://img.shields.io/badge/paper-camera%20ready-orange)](https://drive.google.com/file/d/1TCrrDSVeXgxTcgzbs5RoKAg5Olv-g4N0/view?usp=sharing)

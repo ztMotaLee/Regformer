@@ -1,4 +1,4 @@
-# Learning A Sparse Transformer Network for Effective Image Deraining (CVPR 2023)
+# Dive deep into regions: Exploiting regional information transformer for single image deraining
 
 [Xiang Chen](https://cschenxiang.github.io/), [Hao Li](https://house-leo.github.io/), Mingqiang Li, and [Jinshan Pan](https://jspan.github.io/)
 

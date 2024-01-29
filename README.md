@@ -38,8 +38,6 @@
   </tr>
 </tbody>
 </table>
-Here, these datasets we provided are fully paired images, especially SPA-Data. 
-
 ## Training
 ```
 cd Regformer
@@ -104,7 +102,7 @@ If you are interested in this work, please consider citing:
 
 
 ## Acknowledgment
-This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work.
+This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work. Additionally, this github page is based on [DRSformer](https://github.com/cschenxiang/DRSformer).
 
 ## Contact
 Should you have any question or suggestion, please contact ztmotalee@gmail.com.

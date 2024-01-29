@@ -13,7 +13,7 @@
 
 ## Network Architecture
 
-<img src = "figs/Regformer.pdf">
+<img src = "figs/Regformer.png">
 
 ## Datasets
 <table>

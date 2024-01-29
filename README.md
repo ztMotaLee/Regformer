@@ -2,9 +2,9 @@
 
 [Baiang Li](https://ztmotalee.github.io), [Zhao Zhang](https://sites.google.com/site/cszzhang), [Huan Zheng](), [Xiaogang Xu](https://xiaogang00.github.io), [Yanyan Wei](http://faculty.hfut.edu.cn/weiyanyan/en/index.htm), [Jingyi Zhang](), [Jicong Fan]() and [Meng Wang]()
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.11950)
-[![paper](https://img.shields.io/badge/paper-camera%20ready-orange)](https://drive.google.com/file/d/1TCrrDSVeXgxTcgzbs5RoKAg5Olv-g4N0/view?usp=sharing)
-[![supplement](https://img.shields.io/badge/Supplementary-Material-red)](https://drive.google.com/file/d/1g9p3HcOYFD8PevLBF8zJ2Sb-1T3vbxoV/view?usp=sharing)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![paper](https://img.shields.io/badge/paper-camera%20ready-orange)]()
+[![supplement](https://img.shields.io/badge/Supplementary-Material-red)]()
 
 <hr />
 
@@ -13,7 +13,7 @@
 
 ## Network Architecture
 
-<img src = "figs/network.png">
+<img src = "figs/Regformer.pdf">
 
 ## Datasets
 <table>
@@ -30,22 +30,19 @@
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
-    <td> <a href="https://pan.baidu.com/s/1rTb4qU3fCEA4MRpQss__DA?pwd=s2yx">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1KK8R2bPKgcOX8gMXSuKtCQ?pwd=z9br">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1aPFJExxxTBOzJjngMAOQDA?pwd=5luo">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1g_m7RfSUJUtknlWugO1nrw?pwd=ldzo">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1YfxC5OvgYcQCffEttFz8Kg?pwd=yjow">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
   </tr>
 </tbody>
 </table>
 Here, these datasets we provided are fully paired images, especially SPA-Data. 
 
 ## Training
-1. Please download the corresponding training datasets and put them in the folder `Datasets/train`. Download the testing datasets and put them in the folder `Datasets/test`. 
-2. Note that we do not use MEFC for training Rain200L and SPA-Data, because their rain streaks are less complex and easier to learn. Please modify the file `DRSformer_arch.py`.
-3. Follow the instructions below to begin training our model.
 ```
-cd DRSformer
+cd Regformer
 bash train.sh
 ```
 Run the script then you can find the generated experimental logs in the folder `experiments`.
@@ -74,37 +71,27 @@ Run the script then you can find the output visual results in the folder `test/o
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
-    <td> <a href="https://pan.baidu.com/s/1uj7TWVr4Ys00Xfc8i-AquQ?pwd=kzj5">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1paqtkKfdjLGetnRVhDb6LQ?pwd=j10m">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1xSS5N5gUkpQ_Jl8MUz6wlw?pwd=nact">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1RKG-Eel29lgi0nHwdk2JIw?pwd=hj6r">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1Jp5sAsFFmJmko7ZwHdKmxQ?pwd=vfvt">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
   </tr>
 </tbody>
 <tbody>
   <tr>
     <td>Google Drive</td>
-    <td> <a href="https://drive.google.com/file/d/1Mm6hWdpjo9eEoNlCHAxd03etY3ks-zyy/view?usp=sharing">Download</a> </td>
-    <td> <a href="https://drive.google.com/file/d/1mt8ydHE540_qtytger4dVcv6xqZ5YMhh/view?usp=sharing">Download</a> </td>
-    <td> <a href="https://drive.google.com/file/d/1U_UEGPhYRJ-G10-Dypr7FbwDRGmroAHC/view?usp=sharing">Download</a> </td>
-    <td> <a href="https://drive.google.com/file/d/1kwPOfufdUf9bCZ-OvwIziw-6ZRdcT2RX/view?usp=sharing">Download</a> </td>
-    <td> <a href="https://drive.google.com/file/d/1i33Zmb1YXdLcalJOIP7YTegjnuTsVcC1/view?usp=sharing">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
   </tr>
 </tbody>
 </table>
 
 ## Performance Evaluation
-See folder "evaluations" 
-
-1) *for Rain200L/H and SPA-Data datasets*: 
-PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/swz30/Restormer/blob/main/Deraining/evaluate_PSNR_SSIM.m).
-
-2) *for DID-Data and DDN-Data datasets*: 
-PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation).
-
 <img src = "figs/table.png">
-
-Please note that Table 1 above is our final camera-ready version. There exists the slight gap between the final version and the arXiv version due to errors caused by different testing devices and environments. It is recommended that you can download the visual deraining results and retest the quantitative results on your own device and environment.
 
 ## Visual Deraining Results
 <table>
@@ -176,12 +163,6 @@ For DualGCN, SPDNet, Restormer and IDT, we retrain their models provided by the 
 ## Citation
 If you are interested in this work, please consider citing:
 
-    @inproceedings{DRSformer,
-        title={Learning A Sparse Transformer Network for Effective Image Deraining}, 
-        author={Chen, Xiang and and Li, Hao and Li, Mingqiang and Pan, Jinshan},
-        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-        year={2023}
-    }
 
 ## Acknowledgment
 This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work.

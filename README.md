@@ -46,13 +46,9 @@ bash train.sh
 Run the script then you can find the generated experimental logs in the folder `experiments`.
 
 ## Testing
-1. Please download the corresponding testing datasets and put them in the folder `test/input`. Download the corresponding pre-trained models and put them in the folder `pretrained_models`.
-2. Note that we do not use MEFC for training Rain200L and SPA-Data, because their rain streaks are less complex and easier to learn. Please modify the file `DRSformer_arch.py`.
-3. Follow the instructions below to begin testing our model.
 ```
 python test.py --task Deraining --input_dir './test/input/' --result_dir './test/output/'
 ```
-Run the script then you can find the output visual results in the folder `test/output/Deraining`.
 
 ## Pre-trained Models
 <table>

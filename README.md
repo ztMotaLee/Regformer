@@ -94,6 +94,7 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
 
 
 ## Citation
+```
 If you are interested in this work, please consider citing:
 @misc{li2024diving,
       title={Diving Deep into Regions: Exploiting Regional Information Transformer for Single Image Deraining}, 
@@ -103,7 +104,7 @@ If you are interested in this work, please consider citing:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-
+```
 ## Acknowledgment
 This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work. Additionally, this github page is based on [DRSformer](https://github.com/cschenxiang/DRSformer).
 

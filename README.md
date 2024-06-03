@@ -2,7 +2,7 @@
 
 [Baiang Li](https://ztmotalee.github.io), [Zhao Zhang](https://sites.google.com/site/cszzhang), [Huan Zheng](), [Xiaogang Xu](https://xiaogang00.github.io), [Yanyan Wei](http://faculty.hfut.edu.cn/weiyanyan/en/index.htm), [Jingyi Zhang](), [Jicong Fan]() and [Meng Wang]()
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2402.16033)
 [![paper](https://img.shields.io/badge/paper-camera%20ready-orange)]()
 [![supplement](https://img.shields.io/badge/Supplementary-Material-red)]()
 
@@ -95,7 +95,14 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
 
 ## Citation
 If you are interested in this work, please consider citing:
-
+@misc{li2024diving,
+      title={Diving Deep into Regions: Exploiting Regional Information Transformer for Single Image Deraining}, 
+      author={Baiang Li and Zhao Zhang and Huan Zheng and Xiaogang Xu and Yanyan Wei and Jingyi Zhang and Jicong Fan and Meng Wang},
+      year={2024},
+      eprint={2402.16033},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 ## Acknowledgment
 This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work. Additionally, this github page is based on [DRSformer](https://github.com/cschenxiang/DRSformer).

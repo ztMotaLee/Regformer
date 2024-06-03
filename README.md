@@ -94,8 +94,8 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
 
 
 ## Citation
-```
 If you are interested in this work, please consider citing:
+```
 @misc{li2024diving,
       title={Diving Deep into Regions: Exploiting Regional Information Transformer for Single Image Deraining}, 
       author={Baiang Li and Zhao Zhang and Huan Zheng and Xiaogang Xu and Yanyan Wei and Jingyi Zhang and Jicong Fan and Meng Wang},

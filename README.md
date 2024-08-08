@@ -19,6 +19,7 @@
 <table>
 <thead>
   <tr>
+    <th>version</th>
     <th>Dataset</th>
     <th>Rain200L</th>
     <th>Rain200H</th>
@@ -30,6 +31,13 @@
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
+    <td> Regformer</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> Regformer-L</a> </td>
     <td> <a href="">Download</a> </td>
     <td> <a href="">Download</a> </td>
     <td> <a href="">Download</a> </td>

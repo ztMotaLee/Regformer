@@ -20,7 +20,6 @@
 <thead>
   <tr>
     <th>version</th>
-    <th>Dataset</th>
     <th>Rain200L</th>
     <th>Rain200H</th>
     <th>DID-Data</th>

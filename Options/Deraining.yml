@@ -25,8 +25,8 @@ datasets:
     ### ------- Training on single fixed-patch size 160x160---------
     mini_batch_sizes: [4]
     iters: [300000]
-    gt_size: 160
-    gt_sizes: [160]
+    gt_size: 128
+    gt_sizes: [128]
     ### ------------------------------------------------------------
 
     dataset_enlarge_ratio: 1

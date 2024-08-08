@@ -29,7 +29,6 @@
 </thead>
 <tbody>
   <tr>
-    <td>Baidu Cloud</td>
     <td> Regformer</a> </td>
     <td> <a href="">Download</a> </td>
     <td> <a href="">Download</a> </td>

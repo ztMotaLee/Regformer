@@ -49,7 +49,7 @@ Run the script then you can find the generated experimental logs in the folder `
 ```
 python basicsr/train.py -opt Options/Deraining.yml
 ```
-
+Change the yaml file to Deraining-L.yml if you use Regformer-L.
 
 ## Testing
 ```

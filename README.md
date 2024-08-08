@@ -14,38 +14,6 @@
 ## Network Architecture
 
 <img src = "figs/Regformer.png">
-
-## Datasets
-<table>
-<thead>
-  <tr>
-    <th>version</th>
-    <th>Rain200L</th>
-    <th>Rain200H</th>
-    <th>DID-Data</th>
-    <th>DDN-Data</th>
-    <th>SPA-Data</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td> Regformer</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1IuRG2su3ctWpwth9tJ-fXQ?pwd=f6nm">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1UlyLQXtq04X6tGxF-X9l8g?pwd=pkiv">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1UlyLQXtq04X6tGxF-X9l8g?pwd=pkiv">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/13B1PhNoxCZ2eZbDXEUOyaA?pwd=cwuk">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1tJcNTQBaS8f84uT0nGOsEg?pwd=gywa">Download</a> </td>
-    </tr>
-<tr>
-    <td> Regformer-L</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-  </tr>
-</tbody>
-</table>
 ## Training
 ```
 cd Regformer
@@ -68,7 +36,7 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>version</th>
     <th>Rain200L</th>
     <th>Rain200H</th>
     <th>DID-Data</th>
@@ -78,17 +46,15 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
 </thead>
 <tbody>
   <tr>
-    <td>Baidu Cloud</td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-  </tr>
-</tbody>
-<tbody>
-  <tr>
-    <td>Google Drive</td>
+    <td> Regformer</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1IuRG2su3ctWpwth9tJ-fXQ?pwd=f6nm">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1UlyLQXtq04X6tGxF-X9l8g?pwd=pkiv">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1UlyLQXtq04X6tGxF-X9l8g?pwd=pkiv">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/13B1PhNoxCZ2eZbDXEUOyaA?pwd=cwuk">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1tJcNTQBaS8f84uT0nGOsEg?pwd=gywa">Download</a> </td>
+    </tr>
+<tr>
+    <td> Regformer-L</a> </td>
     <td> <a href="">Download</a> </td>
     <td> <a href="">Download</a> </td>
     <td> <a href="">Download</a> </td>

@@ -55,11 +55,11 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
     </tr>
 <tr>
     <td> Regformer-L</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/12t8w0W03rSW9FMLtLaDVxg?pwd=6hqD ">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/12t8w0W03rSW9FMLtLaDVxg?pwd=6hqD ">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/12t8w0W03rSW9FMLtLaDVxg?pwd=6hqD ">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/12t8w0W03rSW9FMLtLaDVxg?pwd=6hqD ">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/12t8w0W03rSW9FMLtLaDVxg?pwd=6hqD ">Download</a> </td>
   </tr>
 </tbody>
 </table>

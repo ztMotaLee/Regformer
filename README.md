@@ -30,11 +30,11 @@
 <tbody>
   <tr>
     <td> Regformer</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1IuRG2su3ctWpwth9tJ-fXQ?pwd=f6nm">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1UlyLQXtq04X6tGxF-X9l8g?pwd=pkiv">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1UlyLQXtq04X6tGxF-X9l8g?pwd=pkiv">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/13B1PhNoxCZ2eZbDXEUOyaA?pwd=cwuk">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1tJcNTQBaS8f84uT0nGOsEg?pwd=gywa">Download</a> </td>
     </tr>
 <tr>
     <td> Regformer-L</a> </td>

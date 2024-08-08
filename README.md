@@ -37,6 +37,8 @@
     <td> <a href="">Download</a> </td>
     <td> <a href="">Download</a> </td>
     <td> <a href="">Download</a> </td>
+    </tr>
+<tr>
     <td> Regformer-L</a> </td>
     <td> <a href="">Download</a> </td>
     <td> <a href="">Download</a> </td>

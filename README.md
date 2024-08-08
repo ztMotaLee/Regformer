@@ -45,6 +45,12 @@ bash train.sh
 ```
 Run the script then you can find the generated experimental logs in the folder `experiments`.
 
+## Training
+```
+python basicsr/train.py -opt Options/Deraining.yml
+```
+
+
 ## Testing
 ```
 python test.py --task Deraining --input_dir './test/input/' --result_dir './test/output/'

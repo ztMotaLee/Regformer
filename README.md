@@ -42,6 +42,8 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
     <th>DID-Data</th>
     <th>DDN-Data</th>
     <th>SPA-Data</th>
+    <th>HQ-Rain</th>
+
   </tr>
 </thead>
 <tbody>
@@ -52,6 +54,8 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
     <td> <a href="https://pan.baidu.com/s/1UlyLQXtq04X6tGxF-X9l8g?pwd=pkiv">Download</a> </td>
     <td> <a href="https://pan.baidu.com/s/13B1PhNoxCZ2eZbDXEUOyaA?pwd=cwuk">Download</a> </td>
     <td> <a href="https://pan.baidu.com/s/1tJcNTQBaS8f84uT0nGOsEg?pwd=gywa">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1oP1pUyyBXjXOG9wEEDRfZw?pwd=8EFa">Download</a> </td>
+
     </tr>
 <tr>
     <td> Regformer-L</a> </td>
@@ -60,6 +64,8 @@ python test.py --task Deraining --input_dir './test/input/' --result_dir './test
     <td> <a href="https://pan.baidu.com/s/12t8w0W03rSW9FMLtLaDVxg?pwd=6hqD ">Download</a> </td>
     <td> <a href="https://pan.baidu.com/s/12t8w0W03rSW9FMLtLaDVxg?pwd=6hqD ">Download</a> </td>
     <td> <a href="https://pan.baidu.com/s/12t8w0W03rSW9FMLtLaDVxg?pwd=6hqD ">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1oP1pUyyBXjXOG9wEEDRfZw?pwd=8EFa">Download</a> </td>
+
   </tr>
 </tbody>
 </table>

@@ -78,8 +78,7 @@ class LayerNorm(nn.Module):
         h, w = x.shape[-2:]
         return to_4d(self.body(to_3d(x)), h, w)
 
-##########################################################################
-## Gated-Dconv Feed-Forward Network (GDFN)
+
 class FeedForward(nn.Module):
     def __init__(self, dim, ffn_expansion_factor, bias):
         super(FeedForward, self).__init__()
@@ -103,7 +102,6 @@ class FeedForward(nn.Module):
         return x
 
 ##########################################################################
-## Multi-DConv Head Transposed Self-Attention (MDTA)
 class Attention(nn.Module):
     def __init__(self, dim, num_heads, bias):
         super(Attention, self).__init__()
